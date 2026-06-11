@@ -120,7 +120,7 @@ Operations analytics on ride-level data: revenue, demand peaks, driver performan
 
 <div align="center">
 
-**➕ More in my portfolio:** Apollo Hospitals FY25 (5-page Power BI, 18+ DAX) · HR Attrition Dashboard (1,572 records)
+**➕ Also:** [Apollo Hospitals FY25 — 5-page Power BI report](https://github.com/MrPushp-IND/apollo-hospitals-fy25-powerbi) · HR Attrition Dashboard (1,572 records, in portfolio)
 **[→ mrpushp-ind.github.io/pushp-portfolio](https://mrpushp-ind.github.io/pushp-portfolio/)**
 
 </div>
